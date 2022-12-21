@@ -4,4 +4,4 @@
 
 📫 You can reach me at ✉️[ribhattacharya@ucsd.edu](mailto:ribhattacharya@ucsd.edu).
 
-Feel free to go through my [resume](https://drive.google.com/file/d/1ZQpQhfVrLp7cqk3qfaRj65SY2YFskoyc/view?usp=share_link) (github rendering has some issues, pls download!).
+Feel free to go through my [resume](https://drive.google.com/file/d/1ZQpQhfVrLp7cqk3qfaRj65SY2YFskoyc/view?usp=share_link).
