@@ -10,6 +10,4 @@ Here are some links to my projects:
     - Captioning/code generation: [COCO 2015 image captioning](https://github.com/ribhattacharya/image-captioning.git), [Image-2-Latex code generation](https://github.com/ribhattacharya/image-to-latex.git)
     - Classical computer vision: [Classical computer vision 1](https://github.com/ribhattacharya/Computer-Vision-1.git), [Classical computer vision 2](https://github.com/ribhattacharya/Computer-Vision-2.git) 
 
-📫 You can reach me at ✉️ [ribhattacharya@ucsd.edu](mailto:ribhattacharya@ucsd.edu).
-
-Feel free to go through my [resume](Rishabh_Bhattacharya_resume.pdf).
+📫 You can reach me at ✉️ [ribhattacharya@ucsd.edu](mailto:ribhattacharya@ucsd.edu) to request a resume.
