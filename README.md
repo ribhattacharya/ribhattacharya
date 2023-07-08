@@ -9,6 +9,6 @@ Here are some links to my projects:
     - Segmentation: [PASCAL VOOC 2007 segmentation](https://github.com/ribhattacharya/voc_semantic_segmenation.git)
     - Captioning/code generation: [COCO 2015 image captioning](https://github.com/ribhattacharya/image-captioning.git), [Image-2-Latex code generation](https://github.com/ribhattacharya/image-to-latex.git)
     - Classical computer vision: [Classical computer vision 1](https://github.com/ribhattacharya/Computer-Vision-1.git), [Classical computer vision 2](https://github.com/ribhattacharya/Computer-Vision-2.git)
-3. **Misc** (fun projects!): [Jumble solver (sub-anagrams of a given word)](https://github.com/ribhattacharya/Jumble-Solver.git)
+3. **Misc** (fun projects!): [Jumble solver (sub-anagrams of a given word)](https://github.com/ribhattacharya/Jumble-Solver.git), [C/C++ projects for a Coursera specialization](https://github.com/ribhattacharya/c-cpp-projects.git).
 
 📫 You can reach me at ✉️ [ribhattacharya@ucsd.edu](mailto:ribhattacharya@ucsd.edu) to request a resume.
